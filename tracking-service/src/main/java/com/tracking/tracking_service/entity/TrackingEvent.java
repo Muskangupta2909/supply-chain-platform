@@ -27,7 +27,7 @@ public class TrackingEvent {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
+//git
     private Long shipmentId;
 
     private String location;
